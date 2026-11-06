@@ -16,8 +16,8 @@ The project aims to compare Logistic Regression and Random Forest to identify an
 **Dataset URL:** https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
 
 **Dataset Characteristics:**
-- Total records: 4,424
-- Input features: 36
+- Total records: 1,00,000
+- Input features: 34
 - Target variable: Target
 - Data type: Numerical, categorical, and integer
 - Machine learning task: Multiclass classification
